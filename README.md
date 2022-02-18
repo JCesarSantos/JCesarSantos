@@ -1,7 +1,7 @@
 Olá! Eu sou o Julio cESAR
 
 - 🔭 Hoje Trabalho com Back-End
-- 🌱 Estudando JavaScript e C# e HTML
+- 🌱 Estudando JavaScript, C# e HTML
 
 <div>
   <a href="https://github.com/JcesarSantos">
