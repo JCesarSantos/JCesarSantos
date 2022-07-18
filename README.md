@@ -1,4 +1,4 @@
-Olá! Eu sou o Julio cESAR
+Olá! Eu sou o Julio Cesar
 
 - 🔭 Hoje Trabalho com Back-End
 - 🌱 Estudando JavaScript, C# e HTML
